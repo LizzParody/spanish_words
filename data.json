@@ -1,6 +1,7 @@
-
 {
   "words":[
-    {"word":"blah"},{"word":"something"}
-    ]
+    {"word":"blah"},
+    {"word":"something"}
+  ]
 }
+
